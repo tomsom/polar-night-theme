@@ -1,0 +1,54 @@
+# Project:    Polar-Night Alacritty
+# Version:    0.1
+# License:    MIT
+# References:
+#   https://github.com/alacritty/alacritty
+
+colors:
+  primary:
+    background: '#0c0e13'
+    foreground: '#afc0c9'
+    dim_foreground: '#5a6480'
+  cursor:
+    text: '#0c0e13'
+    cursor: '#afc0c9'
+  vi_mode_cursor:
+    text: '#0c0e13'
+    cursor: '#afc0c9'
+  selection:
+    text: CellForeground
+    background: '#23283b'
+  search:
+    matches:
+      foreground: CellBackground
+      background: '#7c88b0'
+    bar:
+      background: '#23283b'
+      foreground: '#afc0c9'
+  normal:
+    black: '#3b4252'
+    red: '#cc746f'
+    green: '#76bc99'
+    yellow: '#f0c189'
+    blue: '#6cb9cb'
+    magenta: '#a176b0'
+    cyan: '#7c88b0'
+    white: '#dae5ee'
+  bright:
+    black: '#3b4252'
+    red: '#d35854'
+    green: '#5bd799'
+    yellow: '#ebb775'
+    blue: '#61c6fa'
+    magenta: '#be6acd'
+    cyan: '#7c88b0'
+    white: '#dae5ee'
+  dim:
+    black: '#3b4252'
+    red: '#d38783'
+    green: '#87c4a6'
+    yellow: '#f5cfa3'
+    blue: '#80c3d1'
+    magenta: '#ae89bd'
+    cyan: '#7c88b0'
+    white: '#dae5ee' 
