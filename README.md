@@ -1,25 +1,15 @@
-# polar-night-theme
-## A dark, bluish theme with vibrant colors; Inspired by Nord
+# polar-night-theme v0.1.1
+## a dark, bluish, pastelish theme; inspired by nord and tokio-night
 
-![pn_sample](https://user-images.githubusercontent.com/50613331/119678269-ad05fd00-be3f-11eb-9433-7207bda13615.png)
-#### It contains three different dark themes:
-- Twilight, with a not so dark background similar to Nord
-- Midnight, a very dark theme for long nights
-- Neumond, just black with desaturated colors
+![gh-preview](https://user-images.githubusercontent.com/50613331/127753760-03adc2d1-3735-4b72-b01d-81fa90b0d563.png)
 
-
-
-#### There is also a bright theme: daybreak
-
-![pn_daybreak_sample](https://user-images.githubusercontent.com/50613331/119681059-066f2b80-be42-11eb-8795-4ca4994a039d.png)
-
-## Polar-Night Midnight is currenty available for:
+## polar-Night !v0.0.1 is currenty available for:
  - VS-Codium
  - Alacritty
 
-#### A few other ports will (probably) follow but feel free to port some yourself
-Contributions are very welcome :]
+#### a few other ports will (probably) follow but feel free to port some yourself
+contributions are very welcome :]
 
-### Note:
-The color-scheme is not very consistant yet, updates could follow;
+### note:
+the color-scheme is not very consistant yet, updates could follow;
 also addional colors may be added (eg some sort of orange and some shades of blue)
